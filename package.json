@@ -1,19 +1,26 @@
 {
-	"name": "word_counter",
+	"name": "my_characters_and_words_counter_00",
 	"version": "1.0.0",
-	"description": "",
+	"description": "This is a characters and words counter CLI base Project in wich user can count thir sentence character and words.",
 	"main": "index.js",
 	"type": "module",
 	"bin": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"keywords": [],
+	"keywords": [
+		"Words Counter",
+		"Characters Counter",
+		"Command-Line Tool",
+		"TypeScript",
+		"Inquirer.js",
+		"CLI Application"
+	],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
 		"chalk": "^5.3.0",
-		"inquirer": "^9.2.19"
+		"inquirer": "^9.3.5"
 	},
 	"devDependencies": {
 		"@types/inquirer": "^9.0.7"
