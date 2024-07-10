@@ -1,6 +1,6 @@
 {
 	"name": "my_characters_and_words_counter_00",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "This is a characters and words counter CLI base Project in wich user can count thir sentence character and words.",
 	"main": "index.js",
 	"type": "module",
